@@ -1,0 +1,10 @@
+{
+    "1.2.0": [
+        "add background afk check support",
+        "fix run button bug"
+    ],
+    "1.1.1": [
+        "fix GUI conflict",
+        "add history"
+    ]
+}
