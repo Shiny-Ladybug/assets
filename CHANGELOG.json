@@ -3,7 +3,6 @@
         "various launch page backgrounds qwq",
         "run button no longer cause lag",
         "notify and sound when afk detected",
-        "i18n",
         "use onnx instead of torch"
     ],
     "1.2.0": [
