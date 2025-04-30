@@ -2,8 +2,7 @@
     "1.2.1": [
         "various launch page backgrounds qwq",
         "run button no longer cause lag",
-        "notify and sound when afk detected",
-        "use onnx instead of torch"
+        "notify and sound when afk detected"
     ],
     "1.2.0": [
         "add background afk check support",
