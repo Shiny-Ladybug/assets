@@ -1,4 +1,10 @@
 {
+    "1.2.3": [
+        "fix IoU issue",
+        "add moving exposure",
+        "add tips",
+        "I wont say if i'll stop updating from now on"
+    ],
     "1.2.2": [
         "literally final update ig"
     ],
