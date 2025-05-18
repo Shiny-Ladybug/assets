@@ -1,4 +1,8 @@
 {
+    "1.2.6": [
+        "auto-upload dataset to GitHub",
+        "object oriented for AFK_Segment and AFK_Path"
+    ],
     "1.2.5": [
         "fix starting point issue",
         "update GUI and change the notify mp3 audio",
