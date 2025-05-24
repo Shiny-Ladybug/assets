@@ -1,4 +1,8 @@
 {
+    "1.2.7": [
+        "performance improvement",
+        "runtime error fix for paths with no end detected"
+    ],
     "1.2.6": [
         "auto-upload dataset to GitHub",
         "object oriented for AFK_Segment and AFK_Path"
