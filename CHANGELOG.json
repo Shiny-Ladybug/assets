@@ -1,4 +1,9 @@
 {
+    "1.2.8": [
+        "fix critical bug which cause thread throttling",
+        "Microsoft Edge is no longer supported",
+        "fix `locate_ready`"
+    ],
     "1.2.7": [
         "performance improvement",
         "runtime error fix for paths with no end detected"
