@@ -1,4 +1,10 @@
 {
+    "1.2.9": [
+        "use dijkstra for default afk path finding",
+        "`start` and `end` are now inferred from exposure image",
+        "fix `WWGC`",
+        "model update"
+    ],
     "1.2.8": [
         "fix critical bug which cause thread throttling",
         "Microsoft Edge is no longer supported",
