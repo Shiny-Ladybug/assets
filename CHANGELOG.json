@@ -3,7 +3,8 @@
         "add custom extension (auto switch Sponge as demo)",
         "extension release (chat, background remove while afk, etc)",
         "install extension.js via Tampermonkey to enable extension client",
-        "ollama server is required to deploy manually"
+        "ollama server is required to deploy manually",
+        "add ai chat"
     ],
     "1.2.9": [
         "use dijkstra for default afk path finding",
