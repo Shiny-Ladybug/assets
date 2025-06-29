@@ -1,4 +1,11 @@
 {
+    "1.3.1": [
+        "add special background [爱心][星星眼]",
+        "add move, join squad action",
+        "add so-called aspac",
+        "fix extension while 2k resolution",
+        "better response action (debounce)"
+    ],
     "1.3.0": [
         "add custom extension (auto switch Sponge as demo)",
         "extension release (chat, background remove while afk, etc)",
