@@ -1,4 +1,9 @@
 {
+    "1.3.2": [
+        "update remote dataset upload type",
+        "add OpenCV-Pro method",
+        "add more extension schedule support"
+    ],
     "1.3.1": [
         "add special background [爱心][星星眼]",
         "add move, join squad action",
